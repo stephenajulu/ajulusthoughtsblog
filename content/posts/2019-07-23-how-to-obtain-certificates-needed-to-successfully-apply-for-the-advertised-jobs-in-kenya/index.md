@@ -1,0 +1,106 @@
+---
+title: "How To Obtain Certificates Needed To Successfully Apply For The Advertised Jobs In Kenya"
+date: "2019-07-23"
+---
+
+Devolution is the major change in Kenya right now, and many people in Kenya are looking forward to benefit from devolved government of Kenya, especially at the county levels. Employment in Kenya is one of the biggest benefit county members in Kenya are looking up to. But the question is, Do you qualify to stand a chance of employment at your county in Kenya? Here are tips on how you can easily secure a chance to be among the first top shortlisted candidates in the county jobs in Kenya. Everyone has academic certificates in Kenya, but apart from those certificates, county employers in Kenya are looking for the following copies of clearance in Kenya, which due to their nature, will be used to shortlist the candidates;
+
+## Higher Education Loans Board (HELB) clearance in Kenya
+
+This clearance form obtained from HELB offices in Kenya. Higher Education Loans Board offices are located on 18th floor of Anniversary Towers on University Way, Opposite University Of Nairobi in Nairobi town. For those Kenyans who benefited through the HELB loan during their university or college study periods in Kenya, they will be requested to fill a certain form just to commit yourself or provide a cheque to clear the loans board debt in Kenya. Those Kenyans who never obtained HELB loans during their university or college studies in Kenya, are required to fill a certain form and attach following copies: Letter by the Kenyan applicant confirming they did not receive university loan in Kenya
+
+Copy of your high school examination certificates, Certified copy of graduation certificates, Copy of national ID (both sides), A bank slip of ksh. 1000 paid to: HELB Operations: ACCOUNT NO. 1104 823 047 KCB University Way Branch Nairobi; ONLY the name and ID NO. of the applicant should be indicated on the deposit slip There are no any other charges for this service. This process of obtaining HELB clearance form in Kenya only take one day, the day of application, to be completed and for a Kenyans to be issued with the certificate.
+
+## Kenya Revenue Authority (KRA) clearance in Kenya
+
+KRA clearance form in Kenya can be obtained from Times Tower in Nairobi which is located on along Haile Selassie Avenue next to New Central Bank Tower in Nairobi CBD. Other people in Kenya seeking for a Kenya Revenue Authority clearance from can access any another station in Kenya (where you obtained your taxpayer registration certificate commonly known as PIN). If you obtained your pin more than one years ago and you have never remitted your tax returns to their officers, you will be required to pay a penalty in Kenya of ksh. 1200 Each year. The process of obtaining a clearance from KRA offices in Kenya takes one day for those Kenyans without any tax issues. But for those Kenyans having KRA penalty fees in Kenya, getting a clearance form from Kenya Revenue Authority offices may take a while.
+
+## Ethics and Anti-corruption commission (EACC) clearance in Kenya
+
+This is the toughest clearance form to obtain in Kenya. To get an Ethics and Anti-corruption commission (EACC) clearance in Kenya, one has to go to Integrity House in Nairobi. Kenya Anti Corruption Authority in Kenya has offices located in Integrity House in Nairobi. Integrity House in Nairobi is located on Milimani Road, adjacent to Valley Road on Integrity Center, just before you get to Hope International in Nairobi. To obtain a means of transportation to the Kenya Anti Corruption Authority offices in Nairobi, one should board a matatu in Kencom area in Nairobi. A Kenyan searching for a county job in Kenya should obtain a Self-Declaration form (which can also be generated online from the EACC website in Kenya on [http://www.eacc.go.ke/](http://www.eacc.go.ke/)) from the Kenya Anti Corruption offices and fill the form. The self declaration form is then taken to Forodha House in Milimani Law Court on Upper Hill Close near Ushuru Co-op Savings & Credit Society limited in Nairobi, and pay ksh. 50 to obtain a signature and seal from the magistrate on duty (only between 12 pm -13pm and 2 pm-3:30 pm working days). The Kenyans should then go back to Integrity House in Nairobi to obtain a clearance signature from the officials of Kenya Anti Corruption Authority. Alternatively Instead of queuing at Forodha House in Nairobi for the magistrate seal in Kenya, you can go to a private lawyer in Kenya but pay more for the seal on the Ethics and Anti-corruption commission clearance in Kenya.
+
+## Criminal Investigation Department CERTIFICATE OF GOOD CONDUCT (CID) 
+
+CID certificate clearance in Kenya is usually obtained from CID Headquarters in Nairobi which is located off Kiambu Road in Nairobi. Criminal Investigation Department offices are towards Kenya Pipeline Estate in Nairobi on Kiambu Road off Thika superhighway, near Muthaiga Golf Club in Nairobi. The certificate of Good Conduct in Kenya obtained from the CID headquarters in Kenya usually takes at least 2weeks you will be required to pay kshs. 1000. 
+
+All submissions by qualifying candidates in Kenya for the county jobs are supposed to be returned to the county employers in Kenya within one week as many stipulate. The copies of the certificates and a copy of National ID in Kenya should be submitted together for a candidate in Kenya to qualify for shortlisting. But the question is, Are you able to obtain all the above clearance certificates in Kenya within one week? Please avoid last minute rush and go get all the above certificates as at now!!
+
+## Credit Reference Bureau Clearance Certificate (CRB)
+
+CRB is a company that is licensed by the central bank of Kenya to collect, store and collate credit information on companies and individuals from different sources. They them give the information in form of a credit report when a lender requests it.
+
+CRB Clearance is a process. Financial institutions in Kenya which include banks, SACCOs and Loan Lenders like the Mobile Based Loan apps communicate with CRB on customer credit status on a daily basis to give updates.  A credit report is crucial to ascertain the institutions that have blacklisted you. **One gets the report by sending an SMS to 21272 or 21CRB and complete registration**. Registration fee is ksh. 50 which assures you one free credit report annually. The listing institution will then give you a clearance letter that you take to the CRB for follow up. A clearance certificate will later be issued to you at a cost of ksh2200. CRB Clearance may take even a day in some instances since Financial Institutions send back daily reports to the Credit Reference Bureau. The time between the Credit Kenya clearance certificate application and certificate issuance varies depending on which institution you choose to work with. The ksh. 2200 will be paid straight to your CRB of choice via a bank account or M-Pesa.
+
+### HOW TO CHECK CRB STATUS
+
+#### METHOD 1: metropol credit reference bureau limited
+
+You can access CRB services from Metropol through [Metropol website](http://metropol.co.ke/) or The Metropol app or by dialing \*433#.
+
+You will Pay kes. 50 as registration fees through the Paybill number 220388. Enter your ID number as the account number.
+
+You’ll get an SMS with your unique **PIN** details,a **Reference Number** and a special **Link**
+
+After you register you can now dial \*433# and login using details provided
+
+##### CRB metropol charges
+
+- You will pay ksh 150 to get your credit score per year.
+- You will be awarded marks between 200-900. Any marks below 400 means your rating is low because you are defaulter. Rating near 800-900 means you have high rating.
+- Credit Report- Pay ksh 250 to get detailed information on institutions that have listed you.
+- CRB Kenya clearance certificate: after making sure you have cleared all your loans. You can now be issued with clearance certificate at ksh 2200
+
+#### Method 2: transunion credit reference bureau CRB kenya
+
+- Send your full names to 21272
+- Enter your ID number
+- Choose CC (meaning Credit Status)
+- Receive your CRB status.
+
+CRB Credit report in kenya – pay ksh650
+
+CRB Clearance certificate in kenya you pay – ksh 2200
+
+### **The following are the CRB listed by the central bank in Kenya.**
+
+#### Metropol Credit Reference Bureau Limited
+
+Location; Nairobi Upper Hill, Shelter Afrique Center, 1st floor.
+
+Postal address;   P.O BOX 35331, 00200 Nairobi, Kenya.
+
+Mobile +254 727 413 733/ 732 774 666
+
+Telephone; +254 20 2689881
+
+Email; [creditbureau@metropolcorporation.com](mailto:creditbureau@metropolcorporation.com)
+
+Date licensed; 11th April 2011.
+
+#### Credit Info Credit Reference Bureau Limited
+
+Location; Parklands Road, Nairobi, Spark Suites Suit 12, 2nd floor.
+
+Postal address;   P.O BOX 38941-00623, Parklands.
+
+Email; [info@creditinfo.co.ke](mailto:info@creditinfo.co.ke)
+
+Date licensed; 29th April 2015.
+
+#### Credit Reference Bureau Africa Limited Transunion
+
+Location; Westlands Road, Off Museum Hill, Prosperity House, 2nd floor.
+
+Postal address; P.O BOX 46406, 00100 Nairobi, Kenya
+
+Mobile; +254 730 651 000
+
+Email; [info@transunion.co.ke](mailto:info@transunion.co.ke)
+
+Website; [www.transunionafrica.com](http://www.transunionafrica.com)
+
+Date licensed; 9th February
+
+**Many of these applications can be done online or at Huduma centers.**
+
+**Information here will be added and/or updated when required. Validate before paying any amount to the bank account/M-Pesa Paybill numbers and amounts.**
