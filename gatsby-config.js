@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Ajulu's Thoughts`,
+    name: `Ajulu's Thoughts`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Ajulu's Thoughts is an Informative Blog with content revolving around Tech, Cybersecurity, Web Development, Blockchain, Cryptocurrencies, Machine Learning and Related Topics`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to Ajulu's Thoughts - a Tech and Cybersecurity Blog`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/stephenajulu`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/stephenajulu`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/stephenajulu`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/stephenajulu/`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/stephenajulu`,
       },
     ],
   },
@@ -48,11 +48,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Ajulu's Thoughts`,
+        short_name: `Ajulu's 💭`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
+        background_color: `#000000`,
+        theme_color: `#000000`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
       },
