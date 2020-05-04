@@ -5,8 +5,8 @@ module.exports = {
     siteUrl: `https://ajulusthoughts.stephenajulu.com`,
     description: `Ajulu's Thoughts is an Informative Blog with content revolving around Tech, Cybersecurity, Web Development, Blockchain, Cryptocurrencies, Machine Learning and Related Topics`,
     hero: {
-      heading: `Welcome to Ajulu's Thoughts - a Tech and Cybersecurity Blog`,
-      maxWidth: 600,
+      heading: `Ajulu's Thoughts - a Tech and Cybersecurity Blog`,
+      maxWidth: 552,
     },
     social: [
       {
