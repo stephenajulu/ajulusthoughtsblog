@@ -6,7 +6,7 @@ module.exports = {
     description: `Ajulu's Thoughts is an Informative Blog with content revolving around Tech, Cybersecurity, Web Development, Blockchain, Cryptocurrencies, Machine Learning and Related Topics`,
     hero: {
       heading: `Ajulu's Thoughts - a Tech and Cybersecurity Blog`,
-      maxWidth: 552,
+      maxWidth: 852,
     },
     social: [
       {
