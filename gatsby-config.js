@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Ajulu's Thoughts`,
     name: `Ajulu's Thoughts`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://ajulusthoughts.stephenajulu.com`,
     description: `Ajulu's Thoughts is an Informative Blog with content revolving around Tech, Cybersecurity, Web Development, Blockchain, Cryptocurrencies, Machine Learning and Related Topics`,
     hero: {
       heading: `Welcome to Ajulu's Thoughts - a Tech and Cybersecurity Blog`,
-      maxWidth: 700,
+      maxWidth: 600,
     },
     social: [
       {
